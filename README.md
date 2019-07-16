@@ -1,8 +1,8 @@
 # Biz2credit
 
 npm i biz2credit
-Or install it directly from my git repo using:
-npm install git+https://git@github.com/shivam222/invite-package.git
+Or clone it directly from my git repo using:
+https://github.com/ojas7160/biz2credit.git
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
 
